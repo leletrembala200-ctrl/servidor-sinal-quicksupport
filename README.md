@@ -1,0 +1,1 @@
+# servidor-sinal-quicksupport
